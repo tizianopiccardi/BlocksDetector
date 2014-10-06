@@ -1,0 +1,1 @@
+Diamonds detector from bukkit 1.7
